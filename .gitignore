@@ -3,5 +3,6 @@
 .idea/
 .settings/
 .classpath
+.project
 *.iml
 *.log*
